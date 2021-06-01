@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Scratch Addons</title><link>/ja/</link><description>Recent content on Scratch Addons</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="/ja/index.xml" rel="self" type="application/rss+xml"/><item><title>Addons</title><link>/ja/addons/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/addons/</guid><description>アドオン Scratch Addonsのすべてのアドオンを掲載しています。
+スクリーンショットの撮影に協力してくれる人を募集しています。
+一覧表示 イースターエッグアドオンには卵のマークがあります。' data-toggle="tooltip" data-placement="left" data-html="true"イースターエッグ 2D カラーピッカー 2d-color-picker カラーピッカーを2Dにする。Shiftキーを押して輝度や彩度のみを変更する。
+60FPSモード ⭐ 60fps 緑の旗をAltキーを押しながらクリックして60FPSにする。
+何もしないアドオン 🥚 account-settings-capitalize 何もしないアドオン。
+サムネイル設定 ⭐ animated-thumb プロジェクトのサムネイルを設定するボタンを、エディターに追加する。
+絵文字の変更 better-emojis Scratchのコメントの猫の絵文字をベクター画像に変える。
+プロフィールページバナー ⭐ better-featured-project プロフィールページの注目のプロジェクト表示をバナーにする。
+選択範囲を引用 better-quoter フォーラム投稿の一部を選択し、Quoteボタンを押して選択範囲を引用する。
+ビットマップ画像をコピー bitmap-copy ペイントエディターでビットマップ画像をコピー可能にする。</description></item><item><title>Extension Update (Transition)</title><link>/ja/scratch-messaging-transition/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/scratch-messaging-transition/</guid><description>Scratch Messaging拡張機能はScratch Addonsになりました! どうしたのですか? griffpatchのScratch Messaging Extensionは、Scratch Addonsに更新されました。
+Scratch Addonsアイコンをクリックして新しいメッセージを確認できます!
+Scratch Addonsには、他の機能も追加されています。Scratch Addons設定にて有効化できます。
+たとえば、Scratch通知をオンにすると、メッセージを受け取った時にブラウザ通知が届きます。
+エディターのダークモードや読み込み進捗バーなど、Scratchプロジェクトのテーマや機能も利用できます。
+Scratch Addonsとは? Scratch Addonsは、Scratchのためのブラウザ拡張機能です。Scratchウェブサイトやプロジェクトエディター用の機能やテーマを提供します。
+Scratch Addonsは完全無料、オープンソースソフトウェアです。ソースコードはGitHubで閲覧、貢献できます。
+バグ修正、新機能、テーマなどが、一週間から一か月間隔でリリースされます。
+何かしないといけないことはありますか? いいえ。
+Scratch Messaging Extensionはすでにアップデートされました。Scratch Addonsアイコンをクリックして、Scratchメッセージを通常通り使うことができます。
+他の機能を有効化したい場合は、アイコンをクリックして歯車アイコンをクリックし、設定ページに行ってください。
+フィードバックを送る 意見がありますか? フィードバックを送信できます。
+または、GitHubにてIssueを投稿できます。
+#intro-img img{width:150px;height:150px}#intro-img .</description></item><item><title>Farewell!</title><link>/ja/farewell/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/farewell/</guid><description> ご利用ありがとうございました。 Scratch Addonsはアンインストールされました。ご利用ありがとうございました。
+上のボタンで再インストールできます。また、Chrome拡張機能のページやFirefox アドオンのページでレビューを送信できます。
+以下も試してみてください:
+問題が発生しましたか? フィードバックを投稿するか、GitHubで投稿してください。 探していた機能が見当たりませんか? フィードバックを投稿するか、GitHub IssueやDiscussionsで提案してください。 意見がありますか? ここにて投稿できます。</description></item><item><title>Send Feedback</title><link>/ja/feedback/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ja/feedback/</guid><description> フィードバックを送信 Scratch Addonsについて意見がありますか? ここで投稿できます。
+window.i18nStrings = { statusSending: '送信中...', statusSuccess: '送信されました。意見ありがとうございます。', statusFailed: '送信に失敗しました。もう一度やり直してください。' } Scratchのユーザー名 (任意) フィードバック 送信 あるいは 以下の方法でもやりとりできます。
+リポジトリにてIssueを作成する。 Discussionsページにて投稿する。 Discordサーバーにてメッセージを送信する。 Discord、Twitterなどで連絡する。 Scratchの規約上、Scratch上で連絡を取ることは禁止されています。
+#feedback-content{height:200px}</description></item></channel></rss>
